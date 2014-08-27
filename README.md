@@ -1,4 +1,4 @@
-angular-single-file-app
+Angular single file app with browserify
 =======================
 # Get started
 > npm install
@@ -9,9 +9,9 @@ angular-single-file-app
 
 # Features
 - Compile Jade & Coffescript
-- Create templates.js with all the views
+- Create templates.js with all the views (html2js)
 - Use ngAnnotate
-- Create a single file "build.js" with everything
+- Create a single file "build.js" with everything (browserify & uglify)
 
 # What next ?
 - Single start file only
