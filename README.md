@@ -2,7 +2,9 @@ angular-single-file-app
 =======================
 # Get started
 > npm install
+
 > bower install
+
 > grunt
 
 # Features
