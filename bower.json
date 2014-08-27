@@ -1,0 +1,29 @@
+{
+  "name": "angular-single-file-app",
+  "version": "0.0.1",
+  "authors": [
+    "Florian Herrengt"
+  ],
+  "description": "Compile angular app in single js file",
+  "main": "index.html",
+  "keywords": [
+    "angular",
+    "single",
+    "file",
+    "ng-annotate",
+    "jade",
+    "coffeescript"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "~1.2.23",
+    "angular-ui-router": "~0.2.10"
+  }
+}
