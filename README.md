@@ -14,5 +14,5 @@ Angular single file app with browserify
 - Create a single file "build.js" with everything (browserify & uglify)
 
 # What next ?
-- Single start file only
-- Buddle each pages and Lazy loading
+- Livereload
+- Store build.js in localStorage and check for update
