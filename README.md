@@ -16,4 +16,5 @@ Angular single file app with browserify
 # What next ?
 - Livereload
 - Store build.js in localStorage and check for update
+- Using watchify
 - Broadcast a 'update' event with socket.io to force client to refresh the app
